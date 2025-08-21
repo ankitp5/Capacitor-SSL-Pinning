@@ -1,5 +1,5 @@
 {
-  "name": "capacitor-ssl-pinning",
+  "name": "@ankitp5/capacitor-ssl-pinning",
   "version": "0.0.14",
   "description": "Check/pin SSL certificates",
   "main": "dist/plugin.cjs.js",
@@ -17,11 +17,11 @@
     "bin/",
     "scripts/"
   ],
-  "author": "mgerullis@pm.me",
+  "author": "ankitp5 <ankitp5@users.noreply.github.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ankitp5/Capacitor-SSL-Pinning"
+    "url": "git+https://github.com/ankitp5/Capacitor-SSL-Pinning.git"
   },
   "bugs": {
     "url": "https://github.com/ankitp5/Capacitor-SSL-Pinning/issues"
