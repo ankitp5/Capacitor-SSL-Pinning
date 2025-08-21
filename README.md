@@ -1,5 +1,8 @@
 # Capacitor SSL Pinning
 
+> **Supports Capacitor 7.x (latest tested: 7.4.3)**
+# Capacitor SSL Pinning
+
 Ionic Capacitor Plugin to perform SSL certificate checking/pinning.  
 This plugin validates the SHA256 fingerprint of a server's SSL certificate and compares it to a provided fingerprint.  
 On Android, the plugin also provides additional certificate information.
@@ -40,7 +43,7 @@ npm install capacitor-ssl-pinning
 Using yarn:
 
 ```bash
-yarn add capacitor-ssl-pinning
+npm install capacitor-ssl-pinning
 ```
 
 Sync native files:
@@ -147,7 +150,7 @@ Example output:
     },
     "issuer": {
       "C": "US",
-      "O": "DigiCert Inc",
+    - Capacitor 7.x (latest tested: 7.4.3)
       "CN": "DigiCert Global G2 TLS RSA SHA256 2020 CA1"
     },
     "validFrom": "Jan 30 00:00:00 2024 GMT",
