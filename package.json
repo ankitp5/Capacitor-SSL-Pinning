@@ -1,6 +1,6 @@
 {
   "name": "@ankitp5/capacitor-ssl-pinning",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "description": "Check/pin SSL certificates",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
